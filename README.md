@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/venkat0086/react-native-fitness-app)
-  ![GitHub stars](https://img.shields.io/github/stars/venkat0086/react-native-fitness-app?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/venkat0086/react-native-fitness-app?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/venkat0086/fitness-app)
+  ![GitHub stars](https://img.shields.io/github/stars/venkat0086/fitness-app?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/venkat0086/fitness-app?style=social)
  
   <br />
 
