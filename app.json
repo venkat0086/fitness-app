@@ -4,7 +4,7 @@
     "slug": "react-native-fitness-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/fitness-logo.png",
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
